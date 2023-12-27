@@ -1,3 +1,3 @@
 # SRSU
-Code will be released after the paper is published
+Code will be released after the paper is published.
 
