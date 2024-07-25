@@ -1,6 +1,8 @@
+This paper has been published in IEEE Transactions on Intelligent Vehicles
+
 # SRSU: An Online Road Map Detection and Network Estimation for Structured Bird’s-Eye View Road Scene Understanding
 
-Code will be released after the paper is published.
+open access:<https://ieeexplore.ieee.org/document/10539298>
 
 ## Introduction
 This paper proposes SRSU, an online road map detection and network estimation method for structured BEV road scene understanding. Specifically, we propose a hierarchical map (including road maps and networks) representation that can accurately describe the fine-grained boundaries in road maps and the rich topology in road networks under a unified framework. Based on the above representation, we propose a hierarchical map construction network, which takes onboard surrounding monocular camera images as input and online generates road maps and networks in a unified framework to achieve a comprehensive understanding of the road scene. Furthermore, we propose auxiliary task prediction, multi-modal distillation, and higher-order interaction modules to improve the accuracy of structured BEV road scene understanding.
